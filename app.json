@@ -1,7 +1,7 @@
 {
-    "name": "˹𝔹𝕝𝕠𝕤𝕤𝕠𝕞 ꭙ 𝕄𝕦𝕤𝕚𝕔˼ 🫧",
+    "name": "˹𝙅𝙚𝙣𝙣𝙞𝙚 ✘ 𝙈𝙪𝙨𝙞𝙘 ˼ ~🎵",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://graph.org/file/b0825ba6490d2aa6a6afd.jpg",
+    "logo": "https://telegra.ph/file/25b7c34d8bfa28babf09b.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -34,12 +34,12 @@
       },
       "MUSIC_BOT_NAME": {
         "description": "A name for your Music Bot. You can use special characters bot ko jhaat farak ni padega",
-        "value": "˹𝔹𝕝𝕠𝕤𝕤𝕠𝕞 ꭙ 𝕄𝕦𝕤𝕚𝕔˼ 🫧",
+        "value": "˹𝙅𝙚𝙣𝙣𝙞𝙚 ✘ 𝙈𝙪𝙨𝙞𝙘 ˼ ~🎵",
         "required": true
       },
       "OWNER_ID": {
         "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
-        "value": "5059737154",
+        "value": "6617592823",
         "required": false
       },
       "STRING_SESSION": {
@@ -49,7 +49,7 @@
       },
       "HEROKU_API_KEY": {
         "description": "Your Heroku account's API key",
-         "value": "57f50156-a181-44da-8c32-c329c72d2bfe",
+         "value": "",
          "required": false
 
           },
