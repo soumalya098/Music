@@ -16,16 +16,16 @@ MONGO_DB_URI = getenv("MONGO_DB_URI", None)
 LOG_GROUP_ID = int(getenv("LOG_GROUP_ID"))
 MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", ": ˹𝙅𝙚𝙣𝙣𝙞𝙚 ✘ 𝙈𝙪𝙨𝙞𝙘 ˼ ~🎵")
 
-OWNER_ID = list(map(int, getenv("OWNER_ID", "5059737154").split()))
+OWNER_ID = list(map(int, getenv("OWNER_ID", "6084527452").split()))
 
 HEROKU_API_KEY = getenv("HEROKU_API_KEY", None)
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME", None)
 
-UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/ASHWANIashwani/-MoonxMusic")
+UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/Moonshining6/MoonxxMusiCCC")
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/synax_chats")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/ABOUT_SNX_MOON")
 SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/MILKY_WAY_45")
 
 SUPPORT_HEHE = SUPPORT_GROUP.split("me/")[1]
